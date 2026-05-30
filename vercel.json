@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/fr.html", "destination": "/", "permanent": true },
+    { "source": "/fr", "destination": "/", "permanent": true }
+  ]
+}
